@@ -20,6 +20,8 @@ main{
     height: 557px;
     display:flex ;
     flex-direction: column;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
 
 }
 .header{
@@ -55,7 +57,9 @@ input{
     background: transparent;
     padding: 8px;
     border-radius: 30px;
-    border: 1 solid black;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: #fff;
+    
 
 }
 
